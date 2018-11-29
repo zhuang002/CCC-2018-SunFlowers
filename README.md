@@ -1,4 +1,4 @@
-# CCC-2018-SunFlowers
+# CCC-2018-SunFlowers (S2)
 
 Problem URL:
     https://dmoj.ca/problem/ccc18s2
